@@ -1,1 +1,3 @@
-<html>TEST</html>
+<html>
+<body>TEST</body>
+</html>
